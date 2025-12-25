@@ -62,4 +62,4 @@
     - **Validation:** Use the `spring-boot-starter-validation` dependency to validate incoming data. Add annotations (`@NotBlank`, `@Min`, etc.) to your DTOs and use `@Valid` in your controller methods. Spring will automatically return a `400 Bad Request` if validation fails.
 
     ![image.png](attachment:24bf8175-b5b3-4a20-b901-fb49c6c04fba:image.png)
-    Ali day 3
+    Ali day 4
